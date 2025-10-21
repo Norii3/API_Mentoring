@@ -1,0 +1,23 @@
+{
+  "id": 32545576,
+  "category": {
+    "id": 1,
+    "name": "Cat"
+  },
+  "name": "Kitty",
+  "photoUrls": [
+    "picture1",
+    "picture2"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "White"
+    },
+    {
+      "id": 2,
+      "name": "Cute"
+    }
+  ],
+  "status": "sold"
+}
